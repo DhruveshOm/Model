@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+.env
+*.pkl  # To exclude your model files if needed
+
+# Streamlit
+.streamlit/
+
+# OS-specific
+.DS_Store
