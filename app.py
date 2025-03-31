@@ -4,7 +4,7 @@ import pandas as pd
 import requests
 
 # Unsplash API setup
-UNSPLASH_ACCESS_KEY = 'E6QD6R57gQ1CiNndk8MrGuK_48_ftSqXEjs-OnT65Uc'  # Replace with your actual Unsplash Access Key
+UNSPLASH_ACCESS_KEY = 'E6QD6R57gQ1CiNndk8MrGuK_48_ftSqXEjs-OnT65Uc'  # Unsplash Access Key
 UNSPLASH_URL = 'https://api.unsplash.com/search/photos'
 
 
